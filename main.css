@@ -1,0 +1,34 @@
+
+background-color:lavendar;
+body {
+	background-color: lavendar;
+}
+h1 {
+	margin-left: 8%;
+	background-color: lavendar;
+	color: blue;
+	font-weight: bold;
+	font-family: "Arial";
+}
+img{
+	margin-left: 30px;
+	border-radius:  25px;
+	border-width: 5px;
+	border-color: black;
+	
+}
+
+p {
+	margin-left: 8%;
+	background-color: lavendar;
+	color: blue;
+	font-family: "Arial", serif;
+}
+
+#shiny {
+	color: gold;
+}
+
+#small {
+	font-size: 10px;
+}
